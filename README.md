@@ -32,9 +32,9 @@
 
 ### Transfer Items
 
-- **Transfer Items**: Shop users can request to transfer items from the warehouse to the shop by simply entering how many units they require into the input field. The item is thereby instantly added to the 'Transfers Pending' panel. Quantities may be amended, or the transfer cancelled prior to sending the request. Clicking the 'Send Transfer Request' button submits the request, after which it can no longer be amended. The requested items remain on the shop user's 'Transfer Pending' panel in an disabled state, with a grey background, and appear on the warehouse manager's 'Transfer Pending' notification panel.
-- **Email Notifications**: Email notifications may be activated, which sends an email to all warehouse managers in the 'receive_mail' group once a shop user clicks the 'Send Transfer Request' button. This eamil contains a list of all requested items, and includes the SKU, description, unit price and requested quantity.
-- **Complete Transfers**: Managers can modify, dispatch, and cancel pending transfers from the warehouse to the shops. Warehouse inventory is only reduced - and shop inventory increased - after managers have clicked the 'Dispatch' button. Dispatched (or Cancelled) items are then removed from the shop user's 'Transfers Pending' panel.
+- **Transfer Items**: Shop users can request to transfer items from the warehouse to the shop by simply entering how many units they require into the input field. 
+- **Email Notifications**: Email notifications may be activated, which sends an email to all warehouse managers in the 'receive_mail'.
+- **Complete Transfers**
 
 
 Warehouse manager login:
